@@ -7,6 +7,3 @@ Please follow the recommended setup procedures of your OE distribution.
 Send pull requests, patches, comments or questions to dnegvesky@arrow.com.
 
 Maintainers: Dan Negvesky <dnegvesky@arrow.com>
-
-
-             
